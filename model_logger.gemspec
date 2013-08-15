@@ -7,11 +7,11 @@ require "model_logger/version"
 Gem::Specification.new do |s|
   s.name        = "model_logger"
   s.version     = ModelLogger::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ModelLogger."
-  s.description = "TODO: Description of ModelLogger."
+  s.authors     = ["kaspernj"]
+  s.email       = ["kaspernj@gmail.com"]
+  s.homepage    = "https://github.com/kaspernj/model_logger"
+  s.summary     = "A small gem for logging stuff on models."
+  s.description = "A small gem for logging stuff on models."
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
