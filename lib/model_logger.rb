@@ -1,0 +1,2 @@
+module ModelLogger
+end
